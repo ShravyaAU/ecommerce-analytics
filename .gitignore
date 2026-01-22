@@ -1,0 +1,7 @@
+__pycache__/
+.env
+*.pyc
+.vscode/
+data/ecommerce.db
+dashboard/*.pbix
+dashboard/*.twbx
